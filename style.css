@@ -49,22 +49,14 @@ body{
     padding: 3px 10px;
     border-radius: 3px;
 }
-.first-link-botton-design{
+.link-botton-design{
     text-decoration: none;
     background-color:rgb(214, 58, 58);
     color: white;
     padding: 10px 20px;
     border-radius: 4px;  
 }
-.link-botton-design-1-or-2{
-   background-color: rgb(214, 58, 58);
-   border-radius: 5px;
-   color: white;
-   padding: 10px;
-   text-align: center;
 
-   
-}
 .section-2{
         margin-top: 2px;}
 .sec-2-h1{
@@ -139,21 +131,19 @@ body{
 }
 .sec-5-div-1{
   width: 60%;
+
 }
 .sec-5-div-2{
     width: 45%;
 }
-.section-6{
 
-}
 .section-6-div-1{
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin: 0%;
-    background: rgb(32, 8, 63);
+    background: black;
     padding-top: 10px;
     color: white;
 }
 .section-6-span{
-
 color: rgb(214, 58, 58);}
